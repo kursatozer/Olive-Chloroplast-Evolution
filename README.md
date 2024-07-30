@@ -2,6 +2,7 @@
 ## Antik Zeytin Kloroplastlardan Modern Zeytin Kloroplastlarına Evrim: Genetik ve Fenotipik Analizler
 
 1. Veri indirme
+- veri kalite kontrol analizi
 
 2. Genom İndeksleme ve Hizalama
 
